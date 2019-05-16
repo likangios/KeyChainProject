@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0210F1F4228D7F6400BE0E68 /* HsBaseRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 0210F1F3228D7F6400BE0E68 /* HsBaseRequest.m */; };
 		0210F1F7228D813800BE0E68 /* SSNetworkConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 0210F1F6228D813800BE0E68 /* SSNetworkConfiguration.m */; };
+		0210F1FA228D830C00BE0E68 /* HsCommitRegisterRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 0210F1F9228D830C00BE0E68 /* HsCommitRegisterRequest.m */; };
 		02BB2F47228BBDBE0063D5B2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 02BB2F46228BBDBE0063D5B2 /* AppDelegate.m */; };
 		02BB2F4A228BBDBE0063D5B2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 02BB2F49228BBDBE0063D5B2 /* ViewController.m */; };
 		02BB2F4D228BBDBE0063D5B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02BB2F4B228BBDBE0063D5B2 /* Main.storyboard */; };
@@ -23,6 +24,8 @@
 		0210F1F3228D7F6400BE0E68 /* HsBaseRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HsBaseRequest.m; sourceTree = "<group>"; };
 		0210F1F5228D813800BE0E68 /* SSNetworkConfiguration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SSNetworkConfiguration.h; sourceTree = "<group>"; };
 		0210F1F6228D813800BE0E68 /* SSNetworkConfiguration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SSNetworkConfiguration.m; sourceTree = "<group>"; };
+		0210F1F8228D830C00BE0E68 /* HsCommitRegisterRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HsCommitRegisterRequest.h; sourceTree = "<group>"; };
+		0210F1F9228D830C00BE0E68 /* HsCommitRegisterRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HsCommitRegisterRequest.m; sourceTree = "<group>"; };
 		02BB2F42228BBDBE0063D5B2 /* KeyChainProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeyChainProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BB2F45228BBDBE0063D5B2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		02BB2F46228BBDBE0063D5B2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -77,6 +80,8 @@
 				02BB2F46228BBDBE0063D5B2 /* AppDelegate.m */,
 				02BB2F48228BBDBE0063D5B2 /* ViewController.h */,
 				02BB2F49228BBDBE0063D5B2 /* ViewController.m */,
+				0210F1F8228D830C00BE0E68 /* HsCommitRegisterRequest.h */,
+				0210F1F9228D830C00BE0E68 /* HsCommitRegisterRequest.m */,
 				0210F1F2228D7F6400BE0E68 /* HsBaseRequest.h */,
 				0210F1F3228D7F6400BE0E68 /* HsBaseRequest.m */,
 				0210F1F5228D813800BE0E68 /* SSNetworkConfiguration.h */,
@@ -210,6 +215,7 @@
 			files = (
 				0210F1F7228D813800BE0E68 /* SSNetworkConfiguration.m in Sources */,
 				02BB2F4A228BBDBE0063D5B2 /* ViewController.m in Sources */,
+				0210F1FA228D830C00BE0E68 /* HsCommitRegisterRequest.m in Sources */,
 				0210F1F4228D7F6400BE0E68 /* HsBaseRequest.m in Sources */,
 				02BB2F55228BBDC00063D5B2 /* main.m in Sources */,
 				02BB2F47228BBDBE0063D5B2 /* AppDelegate.m in Sources */,
